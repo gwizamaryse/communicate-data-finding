@@ -1,0 +1,88 @@
+
+
+
+CNT	      Country code 3-character
+
+SUBNATIO Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID)
+
+OECD	OECD country
+
+NC	National Centre 6-digit Code
+
+SCHOOLID	School ID 7-digit (region ID + stratum ID + 3-digit school ID)
+
+ST01Q01	               International Grade
+
+ST02Q01	               National Study Programme
+
+
+ST03Q02	              Birth -Year
+
+ST04Q01	           Gender
+
+ST11Q01	              At Home - Mother
+
+ST11Q02	At Home - Father
+ST11Q03	At Home - Brothers
+ST11Q04	At Home - Sisters
+ST11Q05	At Home - Grandparents
+ST11Q06	At Home - Others
+ST13Q01	Mother<Highest Schooling>
+ST15Q01	Mother Current Job Status
+ST17Q01	Father<Highest Schooling
+ST25Q01	International Language at Home
+
+ST72Q01	Class Size - No of Students in <Test Language> Class
+
+
+ST79Q06	Teacher-Directed Instruction - Checks Understanding
+
+ST80Q04	Cognitive Activation - Gives Problems that Require to Think
+
+ST80Q04	Cognitive Activation - Gives Problems that Require to Think
+ST80Q05	Cognitive Activation - Asks to Use Own Procedures
+ST80Q06	Cognitive Activation - Presents Problems with No Obvious Solutions
+ST80Q07	Cognitive Activation - Presents Problems in Different Contexts
+ST80Q08	Cognitive Activation - Helps Learn from Mistakes
+ST80Q09	Cognitive Activation - Asks for Explanations
+ST80Q10	Cognitive Activation - Apply What We Learned
+ST80Q11	Cognitive Activation - Problems with Multiple Solutions
+
+
+ST86Q02	Student-Teacher Relation - Teachers Are Interested
+ST86Q03	Student-Teacher Relation - Teachers Listen to Students
+ST86Q04	Student-Teacher Relation - Teachers Help Students
+ST86Q05	Student-Teacher Relation - Teachers Treat Students Fair
+ST87Q01	Sense of Belonging - Feel Like Outsider
+ST87Q02	Sense of Belonging - Make Friends Easily
+ST87Q03	Sense of Belonging - Belong at School
+ST87Q04	Sense of Belonging - Feel Awkward at School
+
+
+IC01Q01	At Home - Desktop Computer
+IC01Q02	At Home - Portable laptop
+IC01Q03	At Home - Tablet computer
+IC01Q04	At Home - Internet connection
+IC01Q05	At Home - Video games console
+IC01Q06	At Home - Cell phone w/o Internet
+IC01Q07	At Home - Cell phone with Internet
+IC01Q08	At Home - Mp3/Mp4 player
+IC01Q09	At Home - Printer
+IC01Q10	At Home - USB (memory) stick
+IC01Q11	At Home - Ebook reader
+IC02Q01	At school - Desktop Computer
+IC02Q02	At school - Portable laptop
+IC02Q03	At school - Tablet computer
+IC02Q04	At school - Internet connection
+IC02Q05	At school - Printer
+IC02Q06	At school - USB (memory) stick
+IC02Q07	At school - Ebook reader
+IC03Q01	First use of computers
+IC04Q01	First access to Internet
+C05Q01	Internet at School
+IC06Q01	Internet out-of-school - Weekday
+IC07Q01	Internet out-of-school - Weekend
+
+FAMSTRUC	Family Structure
+
+
