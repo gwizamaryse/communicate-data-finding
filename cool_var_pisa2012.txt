@@ -36,9 +36,7 @@ ST72Q01	Class Size - No of Students in <Test Language> Class
 
 
 ST79Q06	Teacher-Directed Instruction - Checks Understanding
-
 ST80Q04	Cognitive Activation - Gives Problems that Require to Think
-
 ST80Q04	Cognitive Activation - Gives Problems that Require to Think
 ST80Q05	Cognitive Activation - Asks to Use Own Procedures
 ST80Q06	Cognitive Activation - Presents Problems with No Obvious Solutions
