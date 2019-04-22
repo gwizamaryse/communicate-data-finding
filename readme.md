@@ -28,9 +28,11 @@ More nuances appears when analyzing the dataset by more precise criteria like ge
   
 >## Visualizations
 >Proportion of Male and Female who participated in the survey
- <img src="PISA2.png" width=300> 
- 
+ <img src="PISA2.png" width=300>
+>Comparison Math, Reading and Science Score for both Male and Female Students
  <img src="PISA3.png" width=600> 
- <img src="PISA4.png" width=600>
+>Scores Vs Computer time for both female and male students
+ <img src="PISA4.png" width=700>
+> Math, Reading and Sciences Scores correlation for female and male students
  <img src="PISA7.png" width=600> 
   
