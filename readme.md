@@ -26,3 +26,11 @@ More nuances appears when analyzing the dataset by more precise criteria like ge
   * understanding the Math, Reading and Science scores distribution accross of the above 4 groups of interest.
   * understanding the relationship between the amount of time the students spend on their computers and their scores. 
   
+>## Visualizations
+>Proportion of Male and Female who participated in the survey
+ <img src="PISA2.png" width=300> 
+ 
+ <img src="PISA3.png" width=600> 
+ <img src="PISA4.png" width=600>
+ <img src="PISA7.png" width=600> 
+  
